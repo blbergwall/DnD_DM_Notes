@@ -4,8 +4,19 @@ assume we are not using it but feel free to ask me.
 
 ## Part 1 Creating a Character
 
+* Character options not in the Player Handbook (race, class, Background...)
+	* I believe the standard is to allow each player to use the Players Handbook plus one other
+resource to pick character options from.
+
 * Variant: Customizing Ability Scores
 	* Players may chose this or either of the other two options for determine ability scores.
+
+### Chapter 6: Customization Options
+
+* Multiclassing, I am inclined to not allow multiclassing, I could see making an exception if
+something comes up as part of game play that causes it to make a lot of sense.
+* Feats, I am fine with players taking feats, seems like giving up ability score increases makes
+them balanced.
 
 ## Part 2 Playing the Game
 
@@ -17,3 +28,4 @@ assume we are not using it but feel free to ask me.
 	* From DM Guide we will use "Optional Rule: Diagonals"
 		* Every other diagonal movement costs 10 ft instead of 5 ft
 	* From DM Guide we will **NOT** use "Optional Rule: Facing"
+	
