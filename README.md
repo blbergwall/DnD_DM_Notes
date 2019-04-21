@@ -1,0 +1,1 @@
+A place to make notes about D&D games I DM.

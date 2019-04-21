@@ -16,4 +16,4 @@ assume we are not using it but feel free to ask me.
 	* From DM Guide we will use "Optional Rule: Flanking"
 	* From DM Guide we will use "Optional Rule: Diagonals"
 		* Every other diagonal movement costs 10 ft instead of 5 ft
-	* From DM Guide we will *NOT* use "Optional Rule: Facing"
+	* From DM Guide we will **NOT** use "Optional Rule: Facing"
